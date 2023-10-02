@@ -1,5 +1,7 @@
-# React SaaS Template
-Remains of a SaaS business I once tried to build. Now transformed into a template for building an SaaS/admin application using React + Material-UI.
+# React SaaS Project Landing Page
+Page for building an SaaS/admin application using React + Material-UI.
+
+[Cloned from dunky11's repo](https://github.com/dunky11/react-saas-template)
 
 [**Check out the demo**](https://reactsaastemplate.com)
 
